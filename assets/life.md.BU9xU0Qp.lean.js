@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,a5 as o}from"./chunks/framework.D5NWdoqO.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{"outline":"deep"},"headers":[],"relativePath":"life.md","filePath":"life.md"}'),r={name:"life.md"},i=o("",3),n=[i];function s(_,l,c,d,h,f){return t(),a("div",null,n)}const u=e(r,[["render",s]]);export{p as __pageData,u as default};
