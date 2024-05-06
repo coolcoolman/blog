@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as i,a5 as e}from"./chunks/framework.D5NWdoqO.js";const F=JSON.parse('{"title":"","description":"","frontmatter":{"outline":"deep"},"headers":[],"relativePath":"comment.md","filePath":"comment.md"}'),t={name:"comment.md"},n=e("",1),p=[n];function l(h,d,o,c,k,r){return i(),a("div",null,p)}const b=s(t,[["render",l]]);export{F as __pageData,b as default};
